@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
 	genre.innerHTML = 'Драма';
 
 	const bg = document.querySelector('.promo__bg');
-	bg.style.background = "url('../img/bg.jpg') center top / cover no-repeat";
+	bg.style.background = "url('img/bg.jpg') center top / cover no-repeat";
 
 })
 
